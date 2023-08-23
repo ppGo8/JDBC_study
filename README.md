@@ -1,5 +1,5 @@
 # JDBC学习笔记和代码
-🌈 跟着老杜一起[JDBC](https://www.bilibili.com/video/BV1Bt41137iB/?spm_id_from=333.337.search-card.all.click)，敲了视频中代码并做了学习笔记，帮助学习和后期查看。
+🌈 跟着老杜一起学习[JDBC](https://www.bilibili.com/video/BV1Bt41137iB/?spm_id_from=333.337.search-card.all.click)，敲了视频中代码并做了学习笔记，帮助学习和后期查看。
 
 ## 知识点
 共一个笔记，内容如下
